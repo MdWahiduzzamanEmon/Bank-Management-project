@@ -1,0 +1,10 @@
+1. Here you can see a file which is Banking.exe file.
+
+2.click the Banking.exe to open the project.
+
+3.Select one role then input your ID and correspoding password to login.
+	(existing accounts:
+	Account No: 1621 , Pin No: 1234,   Name:EMON MD WAHIDUZZAMAN	
+	Account No: 2537 , Pin No: 130011, Name:Munna
+	Account No: 7462 , Pin No: 7278,   Name:Rafiduzzaman Rafid	
+	)
